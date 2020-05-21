@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+.python-version
+__pycache__/
+.mypy_cache/
+.ipynb_checkpoints/
+
+hiho*
