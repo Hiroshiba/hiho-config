@@ -14,5 +14,9 @@
         "editor.codeActionsOnSave": {
             "source.organizeImports": true
         }
-    }
+    },
+    "python.sortImports.args": [
+        "-rc",
+        "-l=88"
+    ],
 }
