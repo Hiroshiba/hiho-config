@@ -10,6 +10,7 @@
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
     "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
     "[python]": {
         "editor.codeActionsOnSave": {
             "source.organizeImports": true
