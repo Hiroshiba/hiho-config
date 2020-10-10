@@ -12,5 +12,8 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 
+# docker
+.dockerignore
+
 # my utility
 hiho*
