@@ -32,7 +32,5 @@
         "ms-python.vscode-pylance",
         "mhutchie.git-graph",
     ],
-    "postCreateCommand": [
-        "pip install black mypy flake8",
-    ]
+    "postCreateCommand": "pip install black mypy flake8",
 }
