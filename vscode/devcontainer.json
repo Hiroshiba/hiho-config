@@ -1,6 +1,10 @@
 {
     "name": "",
-    "image": "python",
+//     "image": "python",
+    "build": {
+        "dockerfile": "../Dockerfile",
+        "context": "..",
+    },
     "settings": {
         "python.linting.enabled": true,
         "python.linting.flake8Enabled": true,
