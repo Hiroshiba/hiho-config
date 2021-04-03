@@ -1,5 +1,7 @@
 {
-    "python.venvPath": ".venv",
+    "python.venvFolders": [
+        ".venv"
+    ],
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
@@ -10,7 +12,6 @@
     "python.linting.lintOnSave": true,
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
-    "python.jediEnabled": false,
     "python.languageServer": "Pylance",
     "[python]": {
         "editor.codeActionsOnSave": {
