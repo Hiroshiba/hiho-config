@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"mhutchie.git-graph",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-toolsai.jupyter",
+		"oderwat.indent-rainbow",
+		"redhat.vscode-yaml",
+	],
+	"unwantedRecommendations": []
+}
