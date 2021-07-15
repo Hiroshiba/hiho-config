@@ -1,0 +1,6 @@
+{
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 120, IndentWidth: 4}",
+    "indentRainbow.ignoreErrorLanguages": [
+        "cpp"
+    ],
+}
