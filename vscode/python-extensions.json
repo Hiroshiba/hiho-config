@@ -6,7 +6,8 @@
         "ms-toolsai.jupyter",
         "oderwat.indent-rainbow",
         "redhat.vscode-yaml",
-        "github.copilot"
+        "github.copilot",
+        "foxundermoon.shell-format"
     ],
     "unwantedRecommendations": []
 }
