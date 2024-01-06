@@ -2,3 +2,4 @@
 いｍぽｒｔ	import code; code.interact(local=locals())	名詞	
 わｔｃｈ	watch -n 0.3 nvidia-smi	名詞	
 でたいｌ	<details></details>	名詞	
+いｍｇ	<img src="" width="400" />	名詞	
