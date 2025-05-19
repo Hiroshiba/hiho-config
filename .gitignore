@@ -7,11 +7,10 @@
 .devcontainer/
 
 # python
-.python-version
 __pycache__/
 .mypy_cache/
 .ipynb_checkpoints/
-.venv/
+.venv*/
 
 # docker
 .dockerignore
